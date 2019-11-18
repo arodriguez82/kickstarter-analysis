@@ -1,5 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 ---
+The following includes an analysis of Kickstarter campaign data for campaigns launched between October 2010 and February 2017. The analysis provides information on the success rate of campaigns based on category. Further analysis of the data provided an ideal goal amount, launch date and campaign length outlined below with the following graphs.
+
 ![Category Outcome Chart](https://github.com/arodriguez82/kickstarter-analysis/blob/master/Parent%20Category%20Outcome%20Chart.png?raw=true)
 Based on the number of successful Kickstarter campaigns across all categories, theater campaigns have experienced the highest number of successful outcomes.
 ---
