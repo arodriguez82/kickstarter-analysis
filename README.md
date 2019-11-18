@@ -6,7 +6,7 @@ The following includes an analysis of Kickstarter campaign data for campaigns la
 Based on the number of successful Kickstarter campaigns across all categories, theater campaigns have experienced the highest number of successful outcomes.  
 
 ### Challenge
-
+---
 ![Outcomes Based on Goal](https://github.com/arodriguez82/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goal.png?raw=true)
 Based on collected data for this analysis, 75% of Kickstarter campaigns that were successful for plays had a goal amount of less than $5,000. The average goal amount of these successful plays was $3,000.  
 
